@@ -1,4 +1,5 @@
 # Aspect-Based-Sentiment-Analysis-on-Code-Mixed-Languages
+<<<<<<< HEAD
 Official repo of [ICWiCOM 2025](https://www.djsce-icwicom.com/) paper: [Aspect Based Sentiment Analysis on Code Mixed Languages](https://link.springer.com/chapter/10.1007/978-981-95-3616-0_4)
 
 <div align="center">
@@ -87,3 +88,6 @@ Aspect Sentiment Classification - Implementation and results for the complete AB
 Live Demo/API: A public-facing mechanism (API, web interface, or similar) to easily test the model with your own code-mixed sentences.
 
 Thank you for your understanding as we continue to refine and expand this project and even write and publish another paper on the complete work.
+=======
+Official repo of ICWiCOM 2025 paper: Aspect Based Sentiment Analysis on Code Mixed Languages
+>>>>>>> 5b134dd00154d0658322f75685d1ff2cf117509e
